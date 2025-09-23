@@ -78,7 +78,4 @@ def case_2(a, action):
 
 
 #MAIN
-
-
-
 input("Press Enter to exit.")
