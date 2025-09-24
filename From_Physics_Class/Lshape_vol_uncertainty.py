@@ -40,4 +40,4 @@ def calculate():
     return uncert_volume
 
 """MAIN"""
-calculate()
+print(calculate())
